@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="convert1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MyStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;kml&gt;
+&lt;Document&gt;
+	&lt;name&gt;карта&lt;/name&gt;
+&lt;/Document&gt;
+&lt;/kml&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
