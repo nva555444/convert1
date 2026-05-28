@@ -52,8 +52,8 @@
             this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(435, 131);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "программа  для конвертации файла txf в файл  kml.\r\nконтакты: \r\n\r\nvova_moskva@mail" +
-    ".ru\r\n";
+            this.textBox1.Text = "программа  для  конвертации файла txf в файл  kml.\r\nконтакты: \r\n\r\nvova_moskva@mai" +
+    "l.ru\r\n";
             // 
             // Form2
             // 
