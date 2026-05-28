@@ -30,6 +30,7 @@ namespace convert1
     {
         public List<decimal> BX;
         public List<decimal> LY;
+
     }
 
 
